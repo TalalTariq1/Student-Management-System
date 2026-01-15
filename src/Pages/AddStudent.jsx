@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useContext } from 'react';
-import { StudentContext } from '../Context/StudentContext.jsX';
+import { StudentContext } from '../Context/StudentContext.jsx';
 import { useNavigate } from 'react-router-dom';
 
 const AddStudent = () => {

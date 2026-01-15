@@ -1,7 +1,7 @@
 import React from 'react';
 import  { useContext } from 'react'
 import { useState } from 'react'
-import { StudentContext } from '../Context/StudentContext.jsX';
+import { StudentContext } from '../Context/StudentContext.jsx';
 
 const Settings = () => {
   const [Search, setSearch] = useState("");

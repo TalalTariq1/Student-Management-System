@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import StudentsData from '../Data/StudentData'
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { StudentContext } from '../Context/StudentContext.jsX';
+import { StudentContext } from '../Context/StudentContext.jsx';
 
 const Students = () => {
 

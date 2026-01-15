@@ -1,6 +1,6 @@
 import React, { useEffect,useState,useContext } from 'react'
 import SummaryCard from '../Components/SummaryCard'
-import { StudentContext } from '../Context/StudentContext.jsX';
+import { StudentContext } from '../Context/StudentContext.jsx';
 
 const Dashboard = () => {
 
